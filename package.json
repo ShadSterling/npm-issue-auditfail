@@ -1,0 +1,14 @@
+{
+  "name": "npm-issue-auditfail",
+  "version": "1.0.0",
+  "description": "NPM 6 fails its own audit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "audit": "npm audit"
+  },
+  "author": "Shad Sterling <me@shadsterling.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "npm": "6.0.X"
+  }
+}
